@@ -1,1 +1,1 @@
-# Java_Banking_system
+Designed to manage customer accounts, handle transactions, and provide a secure banking interface. The system supports functionalities such as account creation, deposits, withdrawals, fund transfers, and transaction history viewing.
